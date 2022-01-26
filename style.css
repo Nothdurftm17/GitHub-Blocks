@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    color: white;
+}
+
+#container{
+    width: 950px;
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+#topTier{
+    width: 200 px;
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px;
+}
+#middleTier{
+    width: 310;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+}
+#bottomTier{
+    width: 310;
+    background-color: grey;
+    display:flex;
+    justify-content: space-around;
+    margin: 20px 20px;
+}
+
+.imagesTop{
+    height: 200px;
+}
+.imagesMiddle{
+    height:200px;
+}
+.imagesBottom{
+    height:200px;
+}
+
+#link{
+    text-align: center;
+    margin:0 auto;
+    color: rgb(75, 9, 75);
+}
+
+#header{
+    width: 300px;
+    height: 150px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
